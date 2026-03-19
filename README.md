@@ -14,21 +14,21 @@ The dashboard is designed for business decision-makers, showcasing my skills in 
 
 **Visualizations**:
 
-🌍 Revenue by City (Map)
+> Revenue by City (Map)
 
-📈 Sales Quantity Trend by Month (Line Chart)
+> Sales Quantity Trend by Month (Line Chart)
 
-⭐ Customer Ratings Distribution (Bar Chart)
+> Customer Ratings Distribution (Bar Chart)
 
-🥧 Revenue Share by Payment Method (Pie Chart)
+> Revenue Share by Payment Method (Pie Chart)
 
-📊 Revenue by Mobile Model (Bar Chart)
+> Revenue by Mobile Model (Bar Chart)
 
-📉 Revenue by Day of Week (Line/Bar Chart)
+> Revenue by Day of Week (Line/Bar Chart)
 
-📋 Detailed Brand Performance Table (Revenue, Quantity, Transactions)
+> Detailed Brand Performance Table (Revenue, Quantity, Transactions)
 
-📂 Files in Repository
+**Files in Repository**
 
 Mobile_Sales_Dashboard.pbix → Power BI Dashboard file.
 
