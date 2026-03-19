@@ -66,6 +66,3 @@ Demonstrate technical and analytical skills relevant for data analyst roles.
 
 
 
-⚡ This README will make recruiters see you as a business-focused data analyst who can deliver dashboards that drive insights.
-
-👉 Do you also want me to create a 1-line resume bullet point for this project (something you can directly put in your CV under "Projects")?
